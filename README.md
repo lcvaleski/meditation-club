@@ -1,2 +1,1 @@
-# meditationclub
-Fordham Meditation Club's website.
+https://meditationclub.info/
